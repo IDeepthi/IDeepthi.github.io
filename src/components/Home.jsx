@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { TypeAnimation } from 'react-type-animation';
 import { ChevronsRight } from 'react-feather';
-import DragonImg from '../assets/Dragon.png';
+import DragonImg from '../assets/dragon.png';
 
 const Home = () => {
   return (
